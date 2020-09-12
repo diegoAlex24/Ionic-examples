@@ -17,6 +17,22 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 
 1. programa_1.ts
     * 
+	
+### Uso
+Para instalar hay que abrir una consola y poner el siguiente comando
+```console
+$ npm install -g ionic
+```
+Para crear un proyecto usamos
+```console
+$ ionic start nombreApp blank
+$ ionic start nombreApp tabs
+$ ionic start nombreApp sidemenu
+```
+Para compilar el proyecto
+```console
+$ ionic serve
+```
 
 [Repositorio](https://github.com/diegoAlex24/Ionic-examples).
 
