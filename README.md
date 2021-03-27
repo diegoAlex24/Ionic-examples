@@ -15,13 +15,13 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 
 ### Contenido
 
-1. programa_1.ts
+1. project_1 (Proyecto en blanco)
     * 
 	
 ### Uso
-Para instalar hay que abrir una consola y poner el siguiente comando
+Para instalar hay que abrir una consola y poner el siguiente comando (se requiere tener NodeJS instalado).
 ```console
-$ npm install -g ionic
+$ npm install -g @ionic/cli
 ```
 Para crear un proyecto usamos
 ```console
